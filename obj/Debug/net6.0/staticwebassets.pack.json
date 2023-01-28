@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\css\\font-awesome-animation.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome-animation.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\fontawesome-webfontba72.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\fontawesome-webfontba72.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\fontawesome-webfontba72.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\fontawesome-webfontba72.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontba72.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\img\\kolba.png",
+      "PackagePath": "staticwebassets\\img\\kolba.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\img\\kreditkart.png",
+      "PackagePath": "staticwebassets\\img\\kreditkart.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\img\\monitor.png",
+      "PackagePath": "staticwebassets\\img\\monitor.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\img\\readme.txt",
+      "PackagePath": "staticwebassets\\img\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\img\\sativa.png",
+      "PackagePath": "staticwebassets\\img\\sativa.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\plugins\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\source\\repos\\peterna\\peterna\\wwwroot\\plugins\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.peterna.props",
+      "PackagePath": "build\\peterna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.peterna.props",
+      "PackagePath": "buildMultiTargeting\\peterna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.peterna.props",
+      "PackagePath": "buildTransitive\\peterna.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.peterna.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
